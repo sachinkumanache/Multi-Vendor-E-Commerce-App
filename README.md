@@ -57,7 +57,7 @@ Ecommerce Web/
 ## Installation & Getting started
 Clone the repository and run using any local live server extension:
 ```bash
-git clone https://github.com/sachinkumanache/Ecommerce_Web.git
+git clone https://github.com/sachinkumanache/Multi-Vendor-E-Commerce-App.git
 cd Ecommerce_Web
 Open index.html using Live Server
 ```
