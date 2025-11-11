@@ -1,4 +1,4 @@
-# SampurnaBazaar - E-commerce Web Application
+# SampurnaBazaar – Multi-Vendor E-Commerce App
 
 ## Introduction
 SampurnaBazaar is a fully functional e-commerce web application designed for both vendors and customers. It allows vendors to manage product listings and customers to browse, filter, and purchase products. This project simulates the end-to-end shopping experience from signup/login to checkout. Built with a clean UI and interactive features, the application demonstrates key front-end development concepts and integrates Firebase Realtime Database for backend services. User authentication and session management are handled using local storage.
