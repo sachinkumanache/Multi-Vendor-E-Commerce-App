@@ -33,6 +33,11 @@ Ecommerce Web/
 └── README.md
 ```
 
+<img width="1366" height="768" alt="Screenshot (569)" src="https://github.com/user-attachments/assets/8bb5bead-966a-4f52-bbea-3dcf51a01a48" />
+<img width="1366" height="768" alt="Screenshot (570)" src="https://github.com/user-attachments/assets/0787e34f-e11e-43e0-bd37-89fa1fbe5eb9" />
+<img width="1366" height="768" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/aee6152e-78c0-4253-9af6-8323f1efad9b" />
+
+
 ## Video Walkthrough of the project
 [YouTube Link to Project Demo (1-3 mins)](https://drive.google.com/file/d/15FHqQjZ-Jlb4ECNNo9rd-j7byYeW7aUj/view?usp=sharing)
 
